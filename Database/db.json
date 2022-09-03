@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "name": "kunal",
+        "email": "kunal@gmail.com",
+        "phone": "4892047896",
+        "id": 1
+      },
+      {
+        "name": "rahul",
+        "email": "rahul@gmail.com",
+        "phone": "8579874563",
+        "id": 2
+      },
+      {
+        "name": "ratan",
+        "email": "ratan@gmail.com",
+        "phone": "2296589658",
+        "id": 3
+      },
+      {
+        "name": "Pankaj",
+        "email": "pankaj@gmail.com",
+        "phone": "965235236",
+        "id": 4
+      }
+    ]
+  }
